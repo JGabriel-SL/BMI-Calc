@@ -12,4 +12,4 @@ You may also see any lint errors in the console.
 
 The app image :
 
-![alt text](https://github.com/JGabriel-SL/BMI-Calc/blob/master/app-image.png?raw=true)
+![alt text](https://github.com/JGabriel-SL/BMI-Calc/blob/master/public/app-image.png?raw=true)
